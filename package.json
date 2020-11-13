@@ -1,5 +1,5 @@
 {
-  "name": "my-loaders",
+  "name": "webpack-loaders",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
